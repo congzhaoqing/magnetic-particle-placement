@@ -14,6 +14,7 @@ No new experimental data were generated. Every number in the manuscript is produ
 | **Table S2** | Validation ladder: pre-registered pass criteria and every measured quantity for all four levels, with our value, the reported value and the ratio. | `tables/validation_ladder_summary.csv` |
 | **Table S3** | The five registered source contradictions (C1-C5), each recorded with the handling adopted rather than resolved. | `tables/F_source_contradictions.csv` |
 | **Table S4** | Step-out scaling curves with local log-log slopes, and the thirteen matched-moment configurations. | `tables/F_two_path_stepout_scaling.csv, tables/F_two_path_matched_moment.csv` |
+| **Table S6** | Per-case published evidence behind table 2 of the manuscript | `tables/F_table_S6_case_evidence.csv` |
 | **Table S5** | Screened archive inventory with tier assignment for all 1262 accessions. | `tables/F_GEO_scan_inventory.csv` |
 
 ## Figures
@@ -27,9 +28,8 @@ No new experimental data were generated. Every number in the manuscript is produ
 | Figure 5 | Matched-moment comparison | `figures/Figure5.png` |
 | Figure 6 | Validation ladder: four published measurements, no fitted parameters | `figures/Figure6.png` |
 | Figure 7 | The dose plane, computed twice | `figures/Figure7.png` |
-| Figure 8 | Polarisation direction as a model output | `figures/Figure8.png` |
-| Figure 9 | The axis this paper is built on has never been archived | `figures/Figure9.png` |
-| Figure 10 | What a proper design recovers, in systems that have run one | `figures/Figure10.png` |
+| Figure 8 | The axis this paper is built on has never been archived | `figures/Figure8.png` |
+| Figure 9 | What a proper design recovers, in systems that have run one | `figures/Figure9.png` |
 
 ## Scripts
 
