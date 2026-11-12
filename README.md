@@ -6,6 +6,13 @@ intracellular magnetic-particle actuation of cells at matched single-cell magnet
 No new experimental data were generated. Every number in the manuscript is produced by the scripts in
 `scripts/`; no parameter is fitted to any dataset the model is tested against.
 
+## Preprint
+
+Xia Y, Yin L, Lin A, Tang J, Cong Z. Where the magnet sits sets the sign of the scaling law:
+membrane-anchored versus intracellular magnetic actuation of cells. *bioRxiv* 2026.11.10.765704,
+posted 11 November 2026. doi:[10.64898/2026.11.10.765704](https://doi.org/10.64898/2026.11.10.765704)
+(CC BY). Release `v1.0.4` of this repository is the state cited in that preprint.
+
 ## Supplementary tables cited in the manuscript
 
 | | Content | File |
@@ -14,8 +21,8 @@ No new experimental data were generated. Every number in the manuscript is produ
 | **Table S2** | Validation ladder: pre-registered pass criteria and every measured quantity for all four levels, with our value, the reported value and the ratio. | `tables/validation_ladder_summary.csv` |
 | **Table S3** | The five registered source contradictions (C1-C5), each recorded with the handling adopted rather than resolved. | `tables/F_source_contradictions.csv` |
 | **Table S4** | Step-out scaling curves with local log-log slopes, and the thirteen matched-moment configurations. | `tables/F_two_path_stepout_scaling.csv, tables/F_two_path_matched_moment.csv` |
-| **Table S6** | Per-case published evidence behind table 2 of the manuscript | `tables/F_table_S6_case_evidence.csv` |
 | **Table S5** | Screened archive inventory with tier assignment for all 1262 accessions. | `tables/F_GEO_scan_inventory.csv` |
+| **Table S6** | Per-case published evidence behind table 2 of the manuscript | `tables/F_table_S6_case_evidence.csv` |
 
 ## Figures
 
